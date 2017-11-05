@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ikai Login</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="log_in">Log In</string>
+</resources>
